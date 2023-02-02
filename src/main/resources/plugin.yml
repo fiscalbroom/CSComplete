@@ -1,0 +1,9 @@
+name: CSTabComplete
+version: '${project.version}'
+main: quindicii.cstabcomplete.CSTabComplete
+prefix: (CsTabComplete)
+depend: [ CrackShot ]
+softdepend:
+  - CrackShot
+authors: [ Quindicii ]
+description: Basic TabComplete addon for Shampaggon's crackshot plugin
